@@ -1,0 +1,10 @@
+PODS:
+  - PixateFreestyle (2.1.2)
+
+DEPENDENCIES:
+  - PixateFreestyle
+
+SPEC CHECKSUMS:
+  PixateFreestyle: 567c6fdbe4f9ffbdfbd329a66f3e9bcec1e9bd38
+
+COCOAPODS: 0.32.1

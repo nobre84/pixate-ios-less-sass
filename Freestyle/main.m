@@ -9,10 +9,12 @@
 #import <UIKit/UIKit.h>
 
 #import "QRAppDelegate.h"
+#import <PixateFreestyle.h>
 
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
+        [PixateFreestyle initializePixateFreestyle];
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([QRAppDelegate class]));
     }
 }
